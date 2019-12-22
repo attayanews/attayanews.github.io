@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Attaya</title>
+    <link>/</link>
+    <description>Recent content on Attaya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 22 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dialogue National</title>
+      <link>/home/dialogue-national/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/home/dialogue-national/</guid>
+      <description>&lt;p&gt;Le dialogue censé aboutir à des réformes institutionnelles et Constitutionnelles et accélérer la mise en œuvre de l’Accord de paix a débuté dans plusieurs communes en début de semaine. Inédit dans sa forme, dont l’objectif est de remonter les doléances au plus près du terrain, il est cependant déjà la cible de nombreuses critiques.&lt;/p&gt;
+
+&lt;p&gt;Par Aïssatou Diallo, &lt;b&gt;Jeune Afrique&lt;/b&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dialogue National</title>
+      <link>/post/dialogue-national/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/dialogue-national/</guid>
+      <description>&lt;p&gt;Le dialogue censé aboutir à des réformes institutionnelles et Constitutionnelles et accélérer la mise en œuvre de l’Accord de paix a débuté dans plusieurs communes en début de semaine. Inédit dans sa forme, dont l’objectif est de remonter les doléances au plus près du terrain, il est cependant déjà la cible de nombreuses critiques.&lt;/p&gt;
+
+&lt;p&gt;Par Aïssatou Diallo, &lt;b&gt;Jeune Afrique&lt;/b&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ensemble</title>
+      <link>/notre-manifeste/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/notre-manifeste/</guid>
+      <description>&lt;p&gt;Ensemble&lt;/p&gt;
+
+&lt;p&gt;Notre vision de l&amp;rsquo;information est simple : demandez à ceux qui connaissent.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
